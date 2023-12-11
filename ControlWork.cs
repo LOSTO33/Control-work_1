@@ -18,5 +18,7 @@ void Print (string [] array)
     {
         Console.Write($"{array[i]}");
     }
-    Console.WriteL();
+    Console.WriteLine();
 }
+metod(array1,array2);
+Print(array2);
